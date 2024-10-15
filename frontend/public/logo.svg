@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Logo group -->
+  <g transform="translate(0, 20)">
+    <!-- House shape -->
+    <path d="M20 80 L100 20 L180 80 L180 140 L20 140 Z" fill="none" stroke="#0047AB" stroke-width="6"/>
+    
+    <!-- Bar graph -->
+    <rect x="40" y="100" width="20" height="40" fill="#0047AB"/>
+    <rect x="70" y="80" width="20" height="60" fill="#00C853"/>
+    <rect x="100" y="60" width="20" height="80" fill="#0047AB"/>
+    <rect x="130" y="90" width="20" height="50" fill="#00C853"/>
+    
+    <!-- Magnifying glass -->
+    <circle cx="145" cy="55" r="20" fill="none" stroke="#0047AB" stroke-width="6"/>
+    <line x1="162" y1="70" x2="179" y2="83" stroke="#00C853" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Company name -->
+  <text x="215" y="140" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="#0047AB">
+    Rentura
+  </text>
+</svg>
